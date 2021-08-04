@@ -1,0 +1,16 @@
+.selectedMainDiv{
+    display: flex;
+    justify-content: left;
+    max-width: 300px;
+    border-left: 2px solid lightgray;
+    border-bottom: 2px solid lightgray;
+}
+.selectedInfo{
+    margin: 6px;
+}
+.selectedMainDiv img{
+    width: 50px;
+    margin: 2px 2px 2px 12px ;
+    border-radius: 0px 0px 12px 12px;
+    padding-left: 5px;
+}
